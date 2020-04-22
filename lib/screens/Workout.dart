@@ -18,11 +18,11 @@ class _WorkoutState extends State<Workout> with TickerProviderStateMixin{
   bool isWattingState = false;
 
   List<String> audioList = [
-    'audio/50 - Up from the ashes.mp3',
-    'audio/joined audio.mp3',
-    'audio/Song 14 - Rock.mp3',
-    'audio/Song 18 - Rock.mp3',
-    'audio/Song 34 - Pop.mp3',
+    'audio/50-Up_from_the_ashes.mp3',
+    'audio/joined_audio.mp3',
+    'audio/Song14-Rock.mp3',
+    'audio/Song18-Rock.mp3',
+    'audio/Song34-Pop.mp3',
   ];
   
   int countdownDuration;
